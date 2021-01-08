@@ -1,8 +1,3 @@
-### Hi there 👋
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sevdehatip&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sevdehatip&layout=compact)](https://github.com/Sevdehatip/github-readme-stats)
 
 ### Hi there 👋, Zehra Sevde Hatipoğlu
 #### Development and Data Science
@@ -12,7 +7,9 @@ I'm Sevde from Turkey, and I'm software developer. I'm also interested in data s
 
 Skills: C#/ HTML / CSS/ JS/ PYTHON 
 
-- 🔭 I’m currently working on this page. 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sevdehatip)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zehra-sevde-hatipoğlu-716197aa//)  
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sevdehatip&show_icons=true&theme=radical)
 
 
 
