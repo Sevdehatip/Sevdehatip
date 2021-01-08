@@ -1,6 +1,6 @@
 ### Hi there 👋, Zehra Sevde Hatipoğlu
 #### Development and Data Science
-![Development and Data Science](https://i.pinimg.com/originals/54/00/af/5400af2f3c9c08f5c2ddc97e14937a02.gif)
+![Development and Data Science](https://miro.medium.com/max/800/0*rrLH9s9KUL994QBv)
 
 I'm Sevde from Turkey, and I'm software developer. I'm also interested in data science. I really enjoy languages and frameworks. 
 
