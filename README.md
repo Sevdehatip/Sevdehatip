@@ -2,7 +2,7 @@
 #### Development and Data Science
 ![Development and Data Science](https://miro.medium.com/max/800/0*rrLH9s9KUL994QBv)
 
-I'm Sevde from Turkey, and I'm software developer. I'm also interested in data science. I really enjoy languages and frameworks. 
+I'm Sevde from Turkey, and I'm a Software Developer. I'm also interested in Data Science. I really enjoy languages and frameworks. 
 
 Skills: C#/ HTML / CSS/ JS/ PYTHON 
 
